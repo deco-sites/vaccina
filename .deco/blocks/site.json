@@ -1,1 +1,34 @@
-{"seo":{"type":"website","title":"Landing","jsonLDs":[],"noIndexing":false,"description":"Improve your page performance with deco.cx","titleTemplate":"Landing | deco.cx","descriptionTemplate":"%s | Deco.cx","favicon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/f5603dbc-ee36-4864-aaf3-ea52b257d5b2","image":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/9c94b074-ae4d-4b63-a20b-7d48ce69971a"},"global":[{"__resolveType":"htmx/sections/htmx.tsx"}],"routes":[{"__resolveType":"website/loaders/pages.ts"},{"__resolveType":"website/loaders/redirects.ts"}],"caching":{"directives":[]},"__resolveType":"site/apps/site.ts","firstByteThresholdMS":false,"theme":{"__resolveType":"Neutral"}}
+{
+  "seo": {
+    "type": "website",
+    "title": "Vaccina",
+    "jsonLDs": [],
+    "noIndexing": false,
+    "description": "Compromentimento com a qualidade sempre",
+    "titleTemplate": "Vaccine | Sua clínica de Vacinação",
+    "descriptionTemplate": "%s | Vaccine",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11269/d0f2a4f2-8401-4331-9010-9088d86ddbf9",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11269/96edea57-87e2-4ac5-98ac-37d5fc5a8f70"
+  },
+  "global": [
+    {
+      "__resolveType": "htmx/sections/htmx.tsx"
+    }
+  ],
+  "routes": [
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    }
+  ],
+  "caching": {
+    "directives": []
+  },
+  "__resolveType": "site/apps/site.ts",
+  "firstByteThresholdMS": false,
+  "theme": {
+    "__resolveType": "Neutral"
+  }
+}
